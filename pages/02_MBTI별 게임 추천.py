@@ -19,7 +19,7 @@ mbti_games = {
     "ENTJ": {
         "title": "StarCraft II",
         "genre": "⚔️ RTS / 전략 전투",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/17890/header.jpg"
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/24540/header.jpg"
     },
     "ISFP": {
         "title": "Journey",
@@ -29,7 +29,7 @@ mbti_games = {
     "ISTJ": {
         "title": "Animal Crossing: New Horizons",
         "genre": "🏝️ 생활 시뮬레이션",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1705800/header.jpg"
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1240440/header.jpg"
     },
     "ESTP": {
         "title": "Call of Duty: Modern Warfare",
