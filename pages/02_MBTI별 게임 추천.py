@@ -56,4 +56,4 @@ mbti = st.selectbox("🧬 MBTI를 선택하세요:", list(mbti_games.keys()))
 game = mbti_games[mbti]
 st.subheader(f"✨ {mbti} 유형에게 추천하는 게임은...")
 st.markdown(f"### 🎮 {game['title']}")
-st.image(game["image"], caption=game["genre"], use_column_width=True)
+st.image(game["image"], caption=game["genre"], use_container_width=True)
