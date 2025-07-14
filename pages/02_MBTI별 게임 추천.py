@@ -40,6 +40,46 @@ mbti_games = {
         "title": "Just Dance",
         "genre": "💃 리듬 / 파티",
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/681290/header.jpg"
+    },
+    "INFJ": {
+        "title": "Firewatch",
+        "genre": "🔥 어드벤처 / 스토리",
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/383870/header.jpg"
+    },
+    "INTP": {
+        "title": "Portal 2",
+        "genre": "🧩 퍼즐 / FPS",
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/620/header.jpg"
+    },
+    "ISFJ": {
+        "title": "Spiritfarer",
+        "genre": "🌟 힐링 / 시뮬레이션",
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/972660/header.jpg"
+    },
+    "ISTP": {
+        "title": "DOOM Eternal",
+        "genre": "🔫 FPS / 액션",
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/782330/header.jpg"
+    },
+    "ESFJ": {
+        "title": "The Sims 4",
+        "genre": "🏠 시뮬레이션",
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222670/header.jpg"
+    },
+    "ENFJ": {
+        "title": "Life is Strange",
+        "genre": "🎭 어드벤처 / 스토리",
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/319630/header.jpg"
+    },
+    "ENTP": {
+        "title": "Fortnite",
+        "genre": "⚔️ 배틀로얄 / 액션",
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/218620/header.jpg"
+    },
+    "ESTJ": {
+        "title": "Rainbow Six Siege",
+        "genre": "🎯 FPS / 전략",
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/359550/header.jpg"
     }
 }
 
