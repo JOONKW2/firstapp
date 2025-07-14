@@ -14,17 +14,17 @@ mbti_games = {
     "INTJ": {
         "title": "Civilization VI",
         "genre": "🧠 전략 시뮬레이션",
-        "image": "https://upload.wikimedia.org/wikipedia/en/7/70/Civilization_VI_cover_art.jpg"
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/289070/header.jpg"
     },
     "ENTJ": {
         "title": "StarCraft II",
         "genre": "⚔️ RTS / 전략 전투",
-        "image": "https://upload.wikimedia.org/wikipedia/en/3/32/StarCraft_II_cover_art.jpg"
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/17890/header.jpg"
     },
     "ISFP": {
         "title": "Journey",
         "genre": "🎨 감성 어드벤처",
-        "image": "https://upload.wikimedia.org/wikipedia/en/b/b2/Journey_Cover.jpg"
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/638230/header.jpg"
     },
     "ISTJ": {
         "title": "Animal Crossing: New Horizons",
